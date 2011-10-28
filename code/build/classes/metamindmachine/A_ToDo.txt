@@ -1,0 +1,18 @@
++schuhman ressonace 7,83hz
+
++sleep induction sequence
+-total time display, sequence stretching
++random wordlist display in center
+
+
++thread synchronisation
+
++soundsamples for basic functions
+-relaxmusic
+-instructions:
+--to focus attention
+--focused perception on special areas
+--stimulation of visualisation 
+-(paraliminal) suggestions
+
++webcam movement sleepphase-detection

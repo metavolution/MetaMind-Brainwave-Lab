@@ -1,0 +1,49 @@
+<!-- See http://www.meta-mind.de -->
+
+<sequence>
+<metamindmachine_version>0.1</metamindmachine_version>
+<title>Basic Meditation</title>
+<author>rain</author>
+
+<entries>
+
+<entry type="binbeat_const" binfreq="15" duration="20" />
+<entry type="binbeat_const" binfreq="14" duration="20" />
+<entry type="binbeat_const" binfreq="13" duration="20" />
+<entry type="binbeat_const" binfreq="12" duration="20" />
+<entry type="binbeat_const" binfreq="11" duration="20" />
+<entry type="binbeat_const" binfreq="10" duration="20" />
+<entry type="binbeat_const" binfreq=" 9" duration="20" />
+<entry type="meditation1.mp3" volume="50" />
+<entry type="binbeat_const" binfreq=" 8" duration="30" />
+<entry type="binbeat_const" binfreq=" 7" duration="30" />
+<entry type="binbeat_const" binfreq=" 6" duration="30" />
+<entry type="binbeat_const" binfreq=" 5" duration="30" />
+<entry type="binbeat_const" binfreq=" 4" duration="40" />
+
+<entry type="binbeat_const" binfreq=" 7" duration=" 5" />
+<entry type="binbeat_const" binfreq=" 6" duration="10" />
+<entry type="binbeat_const" binfreq=" 5" duration="20" />
+<entry type="binbeat_const" binfreq=" 4" duration="60" />
+<entry type="sleep" duration="1" />
+
+<entry type="binbeat_const" binfreq=" 6" duration=" 5" />
+<entry type="binbeat_const" binfreq=" 5" duration="10" />
+<entry type="binbeat_const" binfreq=" 4" duration="30" />
+<entry type="sleep" duration="1" />
+
+<entry type="binbeat_const" binfreq=" 5" duration="5" />
+<entry type="binbeat_const" binfreq=" 6" duration="5" />
+<entry type="binbeat_const" binfreq=" 7" duration="5" />
+<entry type="binbeat_const" binfreq=" 8" duration="5" />
+<entry type="binbeat_const" binfreq=" 9" duration="5" />
+<entry type="binbeat_const" binfreq="10" duration="5" />
+<entry type="binbeat_const" binfreq="11" duration="5" />
+<entry type="binbeat_const" binfreq="12" duration="5" />
+<entry type="binbeat_const" binfreq="13" duration="5" />
+<entry type="binbeat_const" binfreq="14" duration="5" />
+<entry type="binbeat_const" binfreq="15" duration="5" />
+
+
+</entries>
+</sequence>

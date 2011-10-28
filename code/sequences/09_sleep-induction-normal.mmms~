@@ -1,0 +1,22 @@
+<!-- See http://www.meta-mind.de -->
+
+<sequence>
+<metamindmachine_version>0.1</metamindmachine_version>
+<title>Basic Meditation</title>
+<author>rain</author>
+
+<entries>
+
+<entry type="binbeat_const"   duration="5" basefreq="220" binfreq="1" />
+<entry type="meditation1.mp3" volume="70" />
+<entry type="binbeat_const"   duration="5" binfreq="2" />
+<entry type="binbeat_const"   duration="5" binfreq="8" />
+<entry type="sleep" 	      duration="0.1" />
+<entry type="binbeat_const"   duration="5" binfreq="12" />
+<entry type="binbeat_const"   duration="5" binfreq="15" />
+
+
+
+
+</entries>
+</sequence>

@@ -1,0 +1,1 @@
+jar cvfm YourApplication.jar MANIFEST.MF *
