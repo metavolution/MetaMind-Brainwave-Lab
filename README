@@ -1,15 +1,35 @@
-MetaMindMachine is a Java open-source GPL binaural beat brainwave program, that plays binaural beats and flashes the screen in the same frequency, according to xml-style sequence files in the sequence directory, to stimulate the brain to resonate in specific EEG-brainwave-patterns.
-After multiple sessions this improves the ability of the brain to go to all possible brainwave frequencies, and to switch between brainwave patterns easily and quickly. In later stages of training the user gets the ability to switch to certain brainwave-frequencies and related mental states consciously without additional technical equipment.
-Some studies indicate that related effects of certain brainwave frequencies, like increased immune function and release of certain neurotransmitters can result. It is also possible to optionally increase the entrainment-response effect, by using an EEG device for EEG neurofeedback training of brainwaves and transcranial electrostimulation.
+MetaMindMachine is a Java open-source GPL binaural beat brainwave program, 
+that plays binaural beats and flashes the screen in the same frequency, 
+according to xml-style sequence files in the sequence directory, 
+to stimulate the brain to resonate in specific EEG-brainwave-patterns.
 
+After multiple sessions this improves the ability of the brain 
+to go to all possible brainwave frequencies, 
+and to switch between brainwave patterns easily and quickly. 
+
+In later stages of training the user gets the ability 
+to switch to certain brainwave-frequencies and related mental states consciously 
+without additional technical equipment.
+
+Some studies indicate that related effects of certain brainwave frequencies, 
+like increased immune function and release of certain neurotransmitters can result. 
+
+It is also possible to optionally increase the entrainment-response effect, 
+by using an EEG device for EEG neurofeedback training of brainwaves and transcranial electrostimulation.
+
+- - - -
 
 MetaMind Machine can be used for:
+
 relaxation, meditation, lucid-dreaming
-attention-focusing, supra-learning
-conscious control of mental states
+> attention-focusing, supra-learning
+> conscious control of mental states
+
 You can make your own sequence files by editing the sequence files with a text editor.
+
 MetaMindMachine runs on Windows/Linux/Mac with Java Runtime installed.
-DOWNLOAD MetaMindMachine
+
+
 to run the program:
 unzip the downloaded MetaMindMachine_xxxxx.zip file
 inside the new directory double click the "MetaMindMachine.jar" file
@@ -17,11 +37,16 @@ or in console type: java -jar MetaMindMachine.jar
 screenflash support in Linux: java -Dsun.java2d.opengl=True -jar MetaMindMachine.jar
 For best effect use good stereo sound and place head close to blinking screen with eyes closed.
 
+
 Command line arguments:
+
 sequence file as parameter:
 java -jar MetaMindMachine.jar sequences/01_basic-meditation.mmms
+
 use external USB LED flasher:
 java -jar MetaMindMachine.jar -useusb sequences/01_basic-meditation.mmms
+
+
 
 MetaMind Machine software and the instructions to build external hardware are open-source, and may be used and modified freely in binary and source-code form according to the GPL. Sources are contained in the jar file.
 This software is provided "as-is" and no warranties are implied. Use of this software is at own risk. Do not use, if you might react epileptic to fast flashing lights.
